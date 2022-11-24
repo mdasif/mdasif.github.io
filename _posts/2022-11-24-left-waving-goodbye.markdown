@@ -4,7 +4,7 @@ title:      "left waving Goodbye.."
 subtitle:   "The way to love anything is to realize that it might be lost."
 date:       2022-11-24 12:00:00
 author:     "mdasif"
-header-img: "img/lost-love.jpg"
+header-img: "img/ship.jpg"
 comments: false
 ---
 
@@ -15,7 +15,7 @@ A ship set sail on a new sea, with a destination unknown. Carrying on it, a carg
 <span class="caption"></span>
 
 
-And I was left on this shore. Left behind. Left alone, waving goodbye. Left waving goodbye...
+And I was left on this shore. Left behind. Left alone, waving goodbye. Left waving goodbye ...
 
 
 <i>Inna lillahi wa inna ilayhi raji'un</i>
