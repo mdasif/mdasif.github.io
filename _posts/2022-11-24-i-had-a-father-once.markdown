@@ -12,7 +12,7 @@ Yeah, I had a father.
 
 
 <figure>
-  <img src="img/papa1.jpg" width="400" height="600">
+  <img src="/img/papa1.jpg" width="400" height="600">
   <figcaption>A Chip off the old block.</figcaption>
 </figure>
 
