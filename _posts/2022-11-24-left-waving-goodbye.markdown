@@ -15,7 +15,7 @@ A ship set sail on a new sea, with a destination unknown. Carrying on it, a carg
 <span class="caption"></span>
 
 
-And I was left on this shore. Left behind. Left alone, waving goodbye. Left waving goodbye ...
+And I was left on this shore. Left behind. Left alone, waving goodbye. Left waving goodbye...
 
 
 <i>Inna lillahi wa inna ilayhi raji'un</i>
