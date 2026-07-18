@@ -9,11 +9,14 @@
         "url": "https://github.com/IronSummitMedia/startbootstrap/blob/gh-pages/LICENSE"
     },
     "devDependencies": {
-        "grunt": "^1.4.1",
-        "grunt-banner": "~0.2.3",
-        "grunt-contrib-less": "^3.0.0",
-        "grunt-contrib-uglify": "^5.0.1",
-        "grunt-contrib-watch": "^1.1.0"
+        "clean-css-cli": "^5.6.3",
+        "less": "^4.2.2",
+        "terser": "^5.36.0"
+    },
+    "scripts": {
+        "build:css": "lessc less/clean-blog.less css/clean-blog.css --include-path=css && node bin/banner.js css/clean-blog.css && cleancss -o css/clean-blog.min.css css/clean-blog.css && node bin/banner.js css/clean-blog.min.css",
+        "build:js": "terser js/clean-blog.js -o js/clean-blog.min.js --compress --mangle && node bin/banner.js js/clean-blog.min.js",
+        "build": "npm run build:css && npm run build:js"
     },
     "repository": {
         "type": "git",
