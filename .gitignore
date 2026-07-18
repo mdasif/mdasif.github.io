@@ -3,4 +3,4 @@ node_modules
 .DS_Store
 .jekyll-metadata
 .jekyll-cache/
-.ruby-version
+.worktrees/
