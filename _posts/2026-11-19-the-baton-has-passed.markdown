@@ -4,6 +4,7 @@ title:      "The baton has passed"
 subtitle:   "Life is effort, and I’ll stop when I die."
 date:       2026-11-19 12:00:00
 author:     "mdasif"
+header-img: "img/despair.jpg"
 comments: true
 ---
 
