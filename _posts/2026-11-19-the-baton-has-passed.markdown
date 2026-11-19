@@ -21,5 +21,5 @@ This year, the day has come — and it feels different. The sadness is there, th
 The baton has passed. not quite yet and I haven't let go.
 </p>
 <p>
-I remember my father this day, as I do every year, with gratitude. Only this time, remembering him does not only take me backwards. This year, this week also looks forward.
+As I remember my father this day, as I do every year, with gratitude. Only this time, remembering him does not only take me backwards. This year, this week also looks forward.
 </p>
